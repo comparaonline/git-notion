@@ -15,7 +15,7 @@ pip install git-notion
 or for local installation:
 
 ```bash
-git clone https://github.com/NarekA/git-notion.git
+git clone git@github.com:comparaonline/git-notion.git
 cd git-notion
 pip install -e .
 ```
